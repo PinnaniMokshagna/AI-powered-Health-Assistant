@@ -242,7 +242,7 @@ elif page == "About":
             <strong>Developed by Ananya Krishna</strong><br>
             📧 Email: <a href="mailto:pinnanimokshagna@gmail.com">pinnanimokshagna@gmail.com</a><br>
             🔗 GitHub: <a href="https://github.com/PinnaniMokshagna" target="_blank">https://github.com/PinnaniMokshagna</a><br>
-            🔗 LinkedIn: <a href="https://www.linkedin.com/in/mokshagna-varma-ab5508281" target="_blank">https://www.linkedin.com/in/mokshagna-varma-ab5508281/</a>
+            🔗 LinkedIn: <a href="https://www.linkedin.com/in/pinnanimokshagna/" target="_blank">https://https://www.linkedin.com/in/pinnanimokshagna/</a>
         </p>
     </div>
     """, unsafe_allow_html=True)

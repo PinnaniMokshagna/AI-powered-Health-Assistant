@@ -100,7 +100,7 @@ st.sidebar.title("Navigation")
 page = st.sidebar.selectbox("Go to:", ["Chat", "About"], index=0)
 
 if page == "Chat":
-    st.title("🩺 AI Power Health  Assistant")
+    st.title("🩺 AI Powered Health  Assistant")
     st.write("Ask me anything about health!")
 
     # Initialize chat messages in session state
